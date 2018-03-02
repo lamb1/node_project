@@ -1,0 +1,34 @@
+{
+  "name": "admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuxiaoshan",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "async_hooks": "^1.0.0",
+    "body-parser": "^1.17.2",
+    "captchapng": "0.0.1",
+    "ccap": "^0.6.10",
+    "excel-export": "^0.5.1",
+    "express": "^4.15.3",
+    "extend": "^3.0.1",
+    "fs": "^0.0.1-security",
+    "gm": "^1.23.0",
+    "guid": "^0.0.12",
+    "mysql": "^2.13.0",
+    "node-tesseract": "^0.2.7",
+    "node-xlsx": "^0.10.0",
+    "path": "^0.12.7",
+    "q": "^1.5.0",
+    "util": "^0.10.3",
+    "zengming": "^0.1.4"
+  },
+  "devDependencies": {
+    "net": "^1.0.2"
+  }
+}
